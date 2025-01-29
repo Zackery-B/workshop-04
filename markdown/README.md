@@ -6,27 +6,27 @@ By: Zack B.
 
 If you have applied to Trent, or have received an Offer of *Admission, you can activate your MyTrent account here. You will need your Trent* Identification Number provided _in your application acknowledgement email._ If you are unable to find your ID, you can retrieve it here OR please contact.
 
-## Strong 
+## Strong
 
-If you have applied to Trent, or have **received an Offer of Admission,** you can activate your MyTrent account here. You will need your Trent Identification Number provided in your application acknowledgement email. If you are unable to find your ID, you can retrieve it here OR please contact admissions@trentu.ca.
+If you have applied to Trent, or have **received an Offer of Admission,** you can activate your MyTrent account here. You will need your Trent Identification Number provided in your application acknowledgement email. If you are unable to find your ID, you can retrieve it here OR please contact
 
 ## Lists
 
-### Unorderded List 
+### Unorderded List
 
 - List item 1
-- List item 2 
+- List item 2
   - List sub item
   - List sub item 2
-- List item 3 
+- List item 3
 
-### Ordered List 
+### Ordered List
 
-1. First item 
-2. second item 
-3. third item 
+1. First item
+2. second item
+3. third item
 
-## Images 
+## Images
 
 ![golden dice](./img/gold_dice.jpg)
 
@@ -34,11 +34,11 @@ If you have applied to Trent, or have **received an Offer of Admission,** you ca
 
 ## Including Code
 
-### Inline 
+### Inline
 
-This is a randome example `this is code` so yeah 
+This is a randome example `this is code` so yeah
 
-### Code Fences 
+### Code Fences
 
 ```html
 <nav>
